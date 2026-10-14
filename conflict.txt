@@ -1,3 +1,3 @@
 Conflict 1: Line 1
-Conflict 2: Line 5
+Conflict 2: Line 5 -> diubah di branch master
 Conflict 3: Line 6
